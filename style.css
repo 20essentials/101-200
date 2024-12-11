@@ -104,7 +104,7 @@ body {
 }
 
 @view-transition {
-  navigation: auto;
+  navigation: auto
 }
 
 ::view-transition-old(circle) {
